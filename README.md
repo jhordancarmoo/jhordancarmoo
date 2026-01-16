@@ -6,7 +6,7 @@
 ## 👨‍💻 Sobre mim
 🔗 https://jhordan.carmo.dev@outlook.com
 🔗 www.linkedin.com/in/jhordan-carmo-9983bb3a3
-
+🔗 https://orcid.org/0009-0000-2545-199X
 ## 📂 Projetos
 | Projeto | Status |
 |--------|--------|
