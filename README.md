@@ -1,5 +1,6 @@
 # Jhordan Carmo – Software Engineering Student
 
+
 ## 🚀 Habilidades
 ![My Skills](https://skillicons.dev/icons?i=java,php,javascript,html,css,typescript,github,kali,mysql,aws)
 
@@ -10,5 +11,5 @@
 ## 📂 Projetos
 | Projeto | Status |
 |--------|--------|
-| API Java | Em desenvolvimento |
-| Sistema CRUD | Concluído |
+| Stock System - Java/Type | Em desenvolvimento |
+| Sistema CRUD - TaskForge | Concluído |
