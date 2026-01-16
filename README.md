@@ -1,7 +1,7 @@
 # Jhordan Carmo – Software Engineering Student
 
 ## 🚀 Habilidades
-![My Skills](https://skillicons.dev/icons?i=java,git,github,linux,docker)
+![My Skills](https://skillicons.dev/icons?i=java,php,javascript,html,css,git,github,linux,docker,aws)
 
 ## 👨‍💻 Sobre mim
 🔗 https://jhordan.carmo.dev@outlook.com
