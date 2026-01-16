@@ -1,16 +1,14 @@
-## Hi there 👋
+# Jhordan Carmo – Software Engineering Student
 
-<!--
-**jhordancarmoo/jhordancarmoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Habilidades
+![My Skills](https://skillicons.dev/icons?i=java,git,github,linux,docker)
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
+🔗 https://jhordan.carmo.dev@outlook.com
+🔗 www.linkedin.com/in/jhordan-carmo-9983bb3a3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+| Projeto | Status |
+|--------|--------|
+| API Java | Em desenvolvimento |
+| Sistema CRUD | Concluído |
